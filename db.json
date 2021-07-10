@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": "a50cb3ed-cf5c-468a-bf5b-9fb01eded569",
+      "name": "yuvraj sachdev",
+      "email": "yuvraj@gmail.com"
+    },
+    {
+      "id": "77df20ad-50d1-4beb-a7df-ebf282a1fbbf",
+      "name": "yuvraj",
+      "email": "yuvi@gmail.com"
+    },
+    {
+      "id": "5fcc8a82-7a4f-4468-925a-aadff540d688",
+      "name": "drishti sachdev",
+      "email": "drishti@classplus.co"
+    },
+    {
+      "id": "1114179a-d801-4e7c-b72d-cf7139270ce1",
+      "name": "drishti sachdev",
+      "email": "drishti@classplus.co"
+    }
+  ]
+}
