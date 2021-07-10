@@ -1,5 +1,5 @@
 import axios from 'axios';
 
 export default axios.create({
-    baseURL:"https://my-json-server.typicode.com/DrishtiSachdev/contactManager",
+    baseURL:"  http://localhost:3006",
 })
